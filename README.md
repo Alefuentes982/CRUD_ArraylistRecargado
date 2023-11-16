@@ -6,7 +6,7 @@
 - java version "1.8.0_202"
 - Java(TM) SE Runtime Environment (build 1.8.0_202-b08)
 - Apache Netbeans 17
-- lib itextpdf 5.4.0 (incluida en este repositorio) link: https://github.com/Alefuentes982/CRUDArraylistRecargado/tree/0dad457e0cc2b23bc8ce100b8909d132b1478c25/libreria_itext 
+- lib itextpdf 5.4.0 (incluida en este repositorio) link: https://github.com/Alefuentes982/CRUD_ArraylistRecargado/tree/5de4fb8101377af77f0c20026a2f8efbe43cbd8c/libreria_itext
 
 
 Para ejecutar, debe cargar el proyecto, ejecutar el archivo login.java del package login e ingresar con alguno de los siguientes usuarios creados en forma manual para el proyecto de estudio:
